@@ -1,5 +1,9 @@
 # Perfect Vacation Weather API Challenge
 
+![perfect](output_data/perfect_weather.png)
+
+*Image from YouTube*
+
 ## Background
 
 This assignment was to use Jupyter Notebook, VS Code, and web APIs to analyze and report data in regards to weather in various locations.
